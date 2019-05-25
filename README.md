@@ -11,6 +11,3 @@ Host: 127.0.0.1
 Server version: 10.1.37-MariaDB
 -- 
 PHP Version: 7.3.1
-
-SET 
-SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
